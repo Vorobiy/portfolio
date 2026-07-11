@@ -1,0 +1,9 @@
+{
+  "name": "personal-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "eugene vorobiov personal site",
+  "dependencies": {
+    "@vercel/analytics": "^1.5.0"
+  }
+}
